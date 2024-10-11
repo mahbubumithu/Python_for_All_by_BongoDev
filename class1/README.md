@@ -1,4 +1,4 @@
-**Basic Linux Commands for Day-to-Day Usage**.
+# **Basic Linux Commands for Day-to-Day Usage**
 
 ---
 
@@ -16,7 +16,7 @@
 - **ls (List)**  
   Lists files and directories in the current directory.
 
-  ```bash
+  ```linux
   $ ls
   ```
 
@@ -24,7 +24,7 @@
 
 - **cd (Change Directory)**  
   Changes the current directory.
-  ```bash
+  ```linux
   $ cd /home/user/Documents
   ```
 
@@ -34,7 +34,7 @@
 - **1. `ls -l` (Long Format)**  
   Displays detailed information about files, including permissions, owner, size, and last modified date.
 
-  ```bash
+  ```linux
   $ ls -l
   ```
 
